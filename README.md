@@ -1,2 +1,2 @@
 # MIT-6.092
-problems solution set
+My solution set through study, hope they are helpful.
